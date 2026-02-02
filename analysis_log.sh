@@ -65,4 +65,3 @@ echo "-------------------------------------------"
 echo
 echo "Analysis appended to reports/analysis_report.txt"
 echo "Analysis completed successfully."
-
